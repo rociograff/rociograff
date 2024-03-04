@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hello! I'm Rocio Graff</h1>
-<h3 align="left">I'm a Software Engineer who builds beautiful and simple software solutions</h3>
+<h3 align="left">I design and develop software with a focus on usability and user experience, always striving to simplify tasks and processes.</h3>
 
 - 💼 I'm currently working for "Dirección de Desarrollo de Aplicaciones de la Municipalidad de Neuquén" as a Fullstack Software Developer
 
