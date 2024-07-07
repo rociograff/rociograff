@@ -38,14 +38,6 @@
   <a href="#" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="32" height="32" /></a>
 </p>
 
-<br>
-
-![rociograff's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rociograff&layout=compact&title_color=D41C57&text_color=FFFFFF&theme=dark&hide_border=true)
-
-![rociograff's github stats](https://github-readme-stats.vercel.app/api?username=rociograff&show_icons=true&hide_border=true&title_color=D41C57&text_color=FFFFFF&icon_color=D41C57&theme=dark)
-
-<br>
-
 ## 📫 Social
 
 <p align='left'>
